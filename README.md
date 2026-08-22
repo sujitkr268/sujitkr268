@@ -63,6 +63,28 @@
 
 ---
 
+## 🏅 Badges & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sujitkr268&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujitkr268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-kumar-18776b3a3)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sujitkrishna2006)
+
+</div>
+
+---
+
 ## 🌱 Beyond Code
 
 - ♟️ Write for HIT Chess Club's *64 Squares* series
