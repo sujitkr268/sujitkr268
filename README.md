@@ -1,41 +1,57 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Sujit%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Dept.+of+Information+Technology;Haldia+Institute+of+Technology;Full-Stack+Developer+in+Progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Dept.+of+Information+Technology;Haldia+Institute+of+Technology;Full-Stack+Developer+in+Progress" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-kumar-18776b3a3)
+[![Codeforces](https://img.shields.io/badge/Codeforces-sujitkrishna2006-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sujitkrishna2006)
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-
 > An IT student passionate about building full-stack web applications.
 > Constantly learning, constantly building. 🚀
+> Currently: Striver's A2Z sheet (Java) + GATE Discrete Math / Digital Logic.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
-`Java`  •  `C`  •  `Python`
+`Java`  •  `C`  •  `Python`  •  `JavaScript`
 
 ### 🎨 Frontend
-
-`HTML`  •  `CSS`  •  `JavaScript`  •  `React`
+`HTML`  •  `CSS`  •  `React`
 
 ### ⚙️ Backend
-
-`Node.js`
+`Node.js`  •  `Express`
 
 ### 🗄️ Database
-
-`MongoDB`
+`MongoDB`  •  `Supabase`
 
 ### 🧰 Tools
+`Postman`  •  `VS Code`  •  `Git`  •  `GitHub`
 
-`Postman`  •  `VS Code`  •  `Git`  •  `GitHub`
+---
+
+## 🚀 Featured Projects
+
+- 🔗 **[Wallet-Event-Checking](https://github.com/sujitkr268/Wallet-Event-Checking)** — MERN + MetaMask/ethers.js wallet event tracker · [Live demo](https://wallet-event-checking-frontend.onrender.com)
+- 🍽️ **Smart Restaurant Management System** — 4-person team project; owned the Supabase layer (schema, auth, RLS, realtime)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub metrics for sujitkr268" />
+
+</div>
+
+<sub>Auto-updates daily via GitHub Actions.</sub>
 
 ---
 
@@ -44,6 +60,14 @@
 ### ✨ *"Efficiency + Innovation + Adaptability + Analytical Thinking = Who I Am"* ✨
 
 </div>
+
+---
+
+## 🌱 Beyond Code
+
+- ♟️ Write for HIT Chess Club's *64 Squares* series
+- 🐾 President & content writer, Beezuban (animal welfare club)
+- ✍️ Content creator for ACM HIT's *Tech Byte* series
 
 ---
 
