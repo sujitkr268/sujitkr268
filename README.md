@@ -62,13 +62,8 @@
 </div>
 
 ---
-
-## 🏅 Badges & Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujitkr268&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1" />
-
+<div>
+  
 </div>
 
 ---
@@ -87,9 +82,9 @@
 
 ## 🌱 Beyond Code
 
-- ♟️ Write for HIT Chess Club's *64 Squares* series
-- 🐾 President & content writer, Beezuban (animal welfare club)
-- ✍️ Content creator for ACM HIT's *Tech Byte* series
+- ♟️content writer at HIT Chess Club's *64 Squares* series
+- 🐾  content writer atBeezuban (animal welfare club)
+- ✍️ developer for ACM HIT
 
 ---
 
