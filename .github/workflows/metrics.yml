@@ -1,0 +1,38 @@
+# Save this file as: .github/workflows/metrics.yml
+# inside your sujitkr268/sujitkr268 repo (the same repo as your README).
+
+name: Update GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # runs daily at 3:00 AM UTC (~8:30 AM IST)
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics image
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: sujitkr268
+          filename: github-metrics.svg
+          template: classic
+
+          # Overview: profile stats, activity summary, repositories
+          base: "header, activity, community, repositories, metadata"
+
+          # Languages breakdown as a pie/donut chart
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_chart_type: pie
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+
+          # Contribution calendar (the "contribution chart" you asked for)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
