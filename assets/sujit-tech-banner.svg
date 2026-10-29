@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%" height="180">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="50%" stop-color="#0a0f24" />
+      <stop offset="100%" stop-color="#030611" />
+    </linearGradient>
+
+    <!-- Text Neon Gradient -->
+    <linearGradient id="neonText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" />
+      <stop offset="50%" stop-color="#7000ff" />
+      <stop offset="100%" stop-color="#ff007f" />
+    </linearGradient>
+
+    <!-- Laser Scanline Gradient -->
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="50%" stop-color="#00f5ff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="cyberGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.12" />
+      <circle cx="0" cy="0" r="1" fill="#00f5ff" fill-opacity="0.3" />
+    </pattern>
+
+    <!-- Neon Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes scanline {
+      0% { transform: translateY(0px); opacity: 0; }
+      15% { opacity: 0.8; }
+      85% { opacity: 0.8; }
+      100% { transform: translateY(180px); opacity: 0; }
+    }
+
+    @keyframes pulseGlow {
+      0%, 100% { filter: drop-shadow(0 0 8px rgba(0, 245, 255, 0.6)) drop-shadow(0 0 20px rgba(112, 0, 255, 0.4)); }
+      50% { filter: drop-shadow(0 0 16px rgba(0, 245, 255, 0.9)) drop-shadow(0 0 35px rgba(255, 0, 127, 0.7)); }
+    }
+
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    @keyframes borderPulse {
+      0%, 100% { stroke: #00f5ff; stroke-opacity: 0.4; }
+      50% { stroke: #7000ff; stroke-opacity: 0.8; }
+    }
+
+    @keyframes circuitFlow {
+      0% { stroke-dashoffset: 100; }
+      100% { stroke-dashoffset: 0; }
+    }
+
+    .tech-bg { fill: url(#bgGrad); }
+    .grid-overlay { fill: url(#cyberGrid); }
+    .main-title {
+      font-family: 'Courier New', 'Fira Code', 'Segoe UI', monospace;
+      font-weight: 900;
+      font-size: 46px;
+      letter-spacing: 7px;
+      fill: url(#neonText);
+      animation: pulseGlow 4s infinite ease-in-out;
+    }
+    .laser-line {
+      animation: scanline 3.5s infinite linear;
+    }
+    .hud-text {
+      font-family: 'Courier New', 'Fira Code', monospace;
+      font-size: 11px;
+      letter-spacing: 2px;
+      fill: #00f5ff;
+      opacity: 0.85;
+    }
+    .sub-hud-text {
+      font-family: 'Segoe UI', -apple-system, sans-serif;
+      font-size: 12px;
+      letter-spacing: 2.5px;
+      fill: #a5b4fc;
+      font-weight: 500;
+    }
+    .hud-bracket {
+      stroke: #00f5ff;
+      stroke-width: 2;
+      fill: none;
+      filter: url(#subtleGlow);
+    }
+    .circuit-line {
+      stroke: #00f5ff;
+      stroke-width: 1;
+      stroke-dasharray: 6 4;
+      animation: circuitFlow 10s infinite linear;
+      opacity: 0.4;
+    }
+    .cursor {
+      fill: #00f5ff;
+      animation: blink 1s infinite;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="850" height="180" rx="12" class="tech-bg" />
+  <rect width="850" height="180" rx="12" class="grid-overlay" />
+
+  <!-- Animated Laser Scanline -->
+  <rect x="0" y="0" width="850" height="3" fill="url(#laserGrad)" class="laser-line" />
+
+  <!-- Outer HUD Cyber Frame -->
+  <rect x="8" y="8" width="834" height="164" rx="8" fill="none" class="circuit-line" />
+
+  <!-- Top-Left Corner HUD -->
+  <path d="M 20 40 L 20 20 L 40 20" class="hud-bracket" />
+  <circle cx="20" cy="20" r="3" fill="#00f5ff" />
+  <text x="50" y="27" class="hud-text">[ SYS_CORE // SUJIT.IO: READY ]</text>
+
+  <!-- Top-Right Corner HUD -->
+  <path d="M 830 40 L 830 20 L 810 20" class="hud-bracket" />
+  <circle cx="830" cy="20" r="3" fill="#ff007f" />
+  <text x="700" y="27" class="hud-text" text-anchor="end">[ PROTOCOL: ACTIVE ]</text>
+  <circle cx="712" cy="24" r="3" fill="#00ff88" class="cursor" />
+
+  <!-- Bottom-Left Corner HUD -->
+  <path d="M 20 140 L 20 160 L 40 160" class="hud-bracket" />
+  <circle cx="20" cy="160" r="3" fill="#7000ff" />
+  <text x="50" y="157" class="hud-text">&gt; FULL_STACK_DEV | APPLIED_AI | B.TECH_CSE</text>
+
+  <!-- Bottom-Right Corner HUD -->
+  <path d="M 830 140 L 830 160 L 810 160" class="hud-bracket" />
+  <circle cx="830" cy="160" r="3" fill="#00f5ff" />
+  <text x="800" y="157" class="hud-text" text-anchor="end">LOC: 23.5204° N, 87.3119° E</text>
+
+  <!-- Center Decorative Cyber Decal / Target Line -->
+  <line x1="160" y1="52" x2="690" y2="52" stroke="#00f5ff" stroke-width="0.7" stroke-opacity="0.3" stroke-dasharray="4 8" />
+  <line x1="220" y1="126" x2="630" y2="126" stroke="#7000ff" stroke-width="0.7" stroke-opacity="0.3" stroke-dasharray="4 8" />
+
+  <!-- Animated Glowing Central Name -->
+  <g transform="translate(425, 96)" text-anchor="middle">
+    <!-- Drop Shadow / Glow duplicate -->
+    <text x="0" y="0" class="main-title" opacity="0.4" filter="url(#glow)">SUJIT KUMAR</text>
+    <text x="0" y="0" class="main-title">SUJIT KUMAR</text>
+  </g>
+
+  <!-- Futuristic Subtitle -->
+  <text x="425" y="120" text-anchor="middle" class="sub-hud-text">
+    &lt; FULL-STACK SOFTWARE ENGINEER • APPLIED AI &amp; DSA &gt;
+  </text>
+</svg>
