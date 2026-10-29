@@ -14,8 +14,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=sujitkr268&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/sujitkr268)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://sujitkr.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-kumar-18776b3a3)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sujit--kumar--o-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujit-kumar-o/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-sujitkrishna2006-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sujitkrishna2006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujit-kumar-o/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sujitkrishna2006)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/sujitkr268">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=console.log(%22Hello%2C+World!+I'm+SUJIT+KUMAR%22);%3Cdeveloper+status%3D%22building_future%22+%2F%3E;B.Tech+CSE+@+Haldia+Institute+of+Technology+(CGPA%3A+9.06);Full-Stack+Engineer+%7C+React+%C2%B7+Node.js+%C2%B7+FastAPI;Exploring+Agentic+AI+%7C+Autonomous+Agents+%C2%B7+LLMs;Active+Problem+Solver+%7C+Java+DSA+%C2%B7+LeetCode+%C2%B7+Codeforces;Developer+at+ACM+HIT+Student+Chapter+(Tech+Byte)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=45&lines=console.log(%22Hello%2C+World!+I'm+SUJIT+KUMAR%22);%3Cdeveloper+status%3D%22building_future%22+%2F%3E;B.Tech+CSE+@+Haldia+Institute+of+Technology+(CGPA%3A+9.06);Full-Stack+Engineer+%7C+React+%C2%B7+Node.js+%C2%B7+FastAPI;Exploring+Agentic+AI+%7C+Autonomous+Agents+%C2%B7+LLMs;Active+Problem+Solver+%7C+DSA+%C2%B7+Problem+Solving;Developer+at+ACM+HIT+Student+Chapter+(Tech+Byte)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,7 +35,7 @@
 > 🎓 2nd-year **B.Tech Computer Science & Engineering** student at **Haldia Institute of Technology** (**1st Year CGPA: 9.06 / 10.0**).  
 > 💻 **Full-Stack Developer** passionate about crafting fast, reactive frontends with **React, Next.js 16, Vite, and Tailwind CSS**, paired with robust backends in **FastAPI, Node.js, Express, PostgreSQL (Neon, Supabase), and MongoDB**.  
 > 🧠 **Applied & Agentic AI** — Architecting intelligent pipelines with **Google Gemini API**, **Ollama**, and **open-weight models**; **currently eager to explore Agentic AI** (autonomous agents, multi-agent systems, and tool-augmented workflows).  
-> ☕ Actively mastering **Java Data Structures & Algorithms** (Striver's A2Z sheet) and solving problems on **[LeetCode (@sujit-kumar-o)](https://leetcode.com/u/sujit-kumar-o/)** and **[Codeforces (@sujitkrishna2006)](https://codeforces.com/profile/sujitkrishna2006)**.  
+> 🧩 Actively mastering **Data Structures & Algorithms (DSA)** and competitive problem-solving.  
 > ✍️ Developer at **ACM HIT Student Chapter**, creating technical carousels for the *Tech Byte Series*.  
 > Know more about me **[here](https://sujitkr.vercel.app)**
 
@@ -272,7 +272,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujitkr268)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-sujit--kumar--o-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujit-kumar-o/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujit-kumar-o/)
 &nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sujitkrishna2006)
 &nbsp;
