@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/sujitkr268">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=B.Tech+CSE+@+Haldia+Institute+of+Technology+(CGPA%3A+9.06);Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Applied+AI+Workflows+%7C+Gemini+API+%C2%B7+Ollama+%C2%B7+Open-Weight+LLMs;Web3+Builder+%7C+MetaMask+%C2%B7+ethers.js;Active+Problem+Solver+%7C+Java+DSA+%C2%B7+Codeforces;Developer+at+ACM+HIT+Student+Chapter+(Tech+Byte)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=B.Tech+CSE+@+Haldia+Institute+of+Technology+(CGPA%3A+9.06);Full-Stack+Engineer+%7C+React+%C2%B7+Node.js+%C2%B7+FastAPI;Applied+AI+Workflows+%7C+Gemini+API+%C2%B7+Ollama+%C2%B7+Open-Weight+LLMs;Web3+Builder+%7C+MetaMask+%C2%B7+ethers.js;Active+Problem+Solver+%7C+Java+DSA+%C2%B7+Codeforces;Developer+at+ACM+HIT+Student+Chapter+(Tech+Byte)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@
 
 > 📍 From Durgapur, West Bengal, India 🇮🇳 building modern, production-style software solutions.  
 > 🎓 2nd-year **B.Tech Computer Science & Engineering** student at **Haldia Institute of Technology** (**1st Year CGPA: 9.06 / 10.0**).  
-> 💻 **Full-Stack Developer** passionate about crafting fast, reactive frontends with **React, Next.js 16, Vite, and Tailwind CSS**, paired with robust backends in **Node.js, Express, PostgreSQL (Neon, Supabase), and MongoDB**.  
+> 💻 **Full-Stack Developer** passionate about crafting fast, reactive frontends with **React, Next.js 16, Vite, and Tailwind CSS**, paired with robust backends in **FastAPI, Node.js, Express, PostgreSQL (Neon, Supabase), and MongoDB**.  
 > 🧠 **Applied AI & LLMs** — Architecting intelligent pipelines integrating the **Google Gemini API**, **Ollama**, and **open-weight models** for real-world decision support and automated summarization.  
 > ☕ Actively mastering **Java Data Structures & Algorithms** (Striver's A2Z sheet) and solving problems on **Codeforces**.  
 > ✍️ Developer at **ACM HIT Student Chapter**, creating technical carousels for the *Tech Byte Series*.  
@@ -62,7 +62,7 @@
 <td width="200"><b>⚙️ Backend & APIs</b></td>
 <td>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Swagger / OpenAPI](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Swagger / OpenAPI](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
 </td>
 </tr>
