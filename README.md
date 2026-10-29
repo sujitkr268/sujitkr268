@@ -1,76 +1,108 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sujit%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20%7C%20CS%20Undergrad&descSize=20&descAlignY=68&descAlign=50" alt="Sujit Kumar Banner" />
-
-  <!-- Dynamic Typing SVG -->
-  <a href="https://github.com/sujitkr268">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=B.Tech+CSE+@+Haldia+Institute+of+Technology+(CGPA%3A+9.06);Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Applied+AI+Workflows+%7C+Gemini+API+%C2%B7+Ollama+%C2%B7+Open-Weight+LLMs;Web3+Builder+%7C+MetaMask+%C2%B7+ethers.js;Active+Problem+Solver+%7C+Java+DSA+%C2%B7+Codeforces;Developer+at+ACM+HIT+Student+Chapter+(Tech+Byte)" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Quick Social / Action Badges -->
-  <p align="center">
-    <a href="https://sujitkr.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-sujitkr.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/sujit-kumar-18776b3a3" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:sujitkrishna2006@gmail.com">
-      <img src="https://img.shields.io/badge/Email-sujitkrishna2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://codeforces.com/profile/sujitkrishna2006" target="_blank">
-      <img src="https://img.shields.io/badge/Codeforces-sujitkrishna2006-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=sujitkr268&label=Profile%20Views&color=58A6FF&style=for-the-badge" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=sujitkr268&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sujit%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20%7C%20B.Tech%20CSE&descSize=20&descAlignY=68&descAlign=50" alt="Sujit Kumar Header" />
 
 </div>
 
----
-
-### 🌟 About Me
-
-```yaml
-Name: Sujit Kumar
-Location: Durgapur, West Bengal, India 🇮🇳
-Education: B.Tech in Computer Science & Engineering (2025–2029)
-Institution: Haldia Institute of Technology (1st Year CGPA: 9.06 / 10.0)
-Specialization: Full-Stack Engineering, Applied AI & Java DSA
-Philosophy: "Efficiency + Innovation + Adaptability + Analytical Thinking"
-```
-
-- 🎓 **Undergrad in CSE** with a strong academic track record (**CGPA: 9.06 / 10.0**) at Haldia Institute of Technology.
-- 💻 **Full-Stack Developer** experienced in building robust, production-style applications using **React, Vite, Next.js, Node.js, Express, PostgreSQL (Neon, Supabase), and MongoDB**.
-- 🤖 **Applied AI & LLM Enthusiast**: Architected decision-support systems and automated chat summarizers leveraging the **Google Gemini API, Ollama, and open-weight LLMs**, with a focus on real-world constraints and prompt engineering.
-- 🦊 **Web3 & Decentralized Identity**: Implemented passwordless cryptographic authentication systems utilizing **MetaMask and ethers.js**.
-- ☕ **DSA Enthusiast**: Deeply focused on **Java-based Data Structures & Algorithms** (Striver's A2Z sheet) and competitive coding on **Codeforces**.
-- ✍️ **Tech Community & Leadership**: Core Developer at **ACM HIT Student Chapter** authoring the *Tech Byte Series* on CS fundamentals.
-
----
-
-### 🛠️ Tech Arsenal & Stack
+<br/>
 
 <div align="center">
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logo=neon&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Applied AI & Web3** | ![Gemini](https://img.shields.io/badge/Google_Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white) ![ethers.js](https://img.shields.io/badge/ethers.js-273383?style=for-the-badge&logo=ethereum&logoColor=white) |
-| **Tools & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+[![Follow](https://img.shields.io/github/followers/sujitkr268?label=Follow%20Me&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/sujitkr268)
+[![Stars](https://img.shields.io/github/stars/sujitkr268?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/sujitkr268?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=sujitkr268&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/sujitkr268)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://sujitkr.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-kumar-18776b3a3)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/sujitkr268">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=B.Tech+CSE+@+Haldia+Institute+of+Technology+(CGPA%3A+9.06);Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Applied+AI+Workflows+%7C+Gemini+API+%C2%B7+Ollama+%C2%B7+Open-Weight+LLMs;Web3+Builder+%7C+MetaMask+%C2%B7+ethers.js;Active+Problem+Solver+%7C+Java+DSA+%C2%B7+Codeforces;Developer+at+ACM+HIT+Student+Chapter+(Tech+Byte)" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 👋 About Me
+
+> 📍 From Durgapur, West Bengal, India 🇮🇳 building modern, production-style software solutions.  
+> 🎓 2nd-year **B.Tech Computer Science & Engineering** student at **Haldia Institute of Technology** (**1st Year CGPA: 9.06 / 10.0**).  
+> 💻 **Full-Stack Developer** passionate about crafting fast, reactive frontends with **React, Next.js 16, Vite, and Tailwind CSS**, paired with robust backends in **Node.js, Express, PostgreSQL (Neon, Supabase), and MongoDB**.  
+> 🧠 **Applied AI & LLMs** — Architecting intelligent pipelines integrating the **Google Gemini API**, **Ollama**, and **open-weight models** for real-world decision support and automated summarization.  
+> ☕ Actively mastering **Java Data Structures & Algorithms** (Striver's A2Z sheet) and solving problems on **Codeforces**.  
+> ✍️ Developer at **ACM HIT Student Chapter**, creating technical carousels for the *Tech Byte Series*.  
+> Know more about me **[here](https://sujitkr.vercel.app)**
+
+---
+
+## 🛠️ Skills
+
+<table>
+<tr>
+<td width="200"><b>💻 Languages</b></td>
+<td>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="200"><b>🎨 Frontend & UI</b></td>
+<td>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-F56565?style=flat-square&logo=feather&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="200"><b>⚙️ Backend & APIs</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Swagger / OpenAPI](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="200"><b>🗄️ Databases & ORMs</b></td>
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Neon Postgres](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=neon&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="200"><b>🤖 Applied AI & LLMs</b></td>
+<td>
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Open-Weight LLMs](https://img.shields.io/badge/Open--Weight_LLMs-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="200"><b>⛓️ Web3 & Identity</b></td>
+<td>
+
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white) ![ethers.js](https://img.shields.io/badge/ethers.js-273383?style=flat-square&logo=ethereum&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="200"><b>🛠️ Tools & DevOps</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -78,7 +110,7 @@ Philosophy: "Efficiency + Innovation + Adaptability + Analytical Thinking"
       <h3 align="center">🌾 FarmOS</h3>
       <p align="center"><strong>Agriculture Market Opportunity Platform</strong></p>
       <ul>
-        <li>Identifies optimal harvest selling opportunities matching market prices, transit distance, and live weather.</li>
+        <li>Identifies optimal harvest selling opportunities matching market prices, spatial distance, and real-time weather.</li>
         <li>Integrated <strong>Agmarknet</strong>, <strong>Open-Meteo</strong>, and <strong>OpenRouteService</strong> APIs for spatial & real-time commodity pricing.</li>
         <li>Built an <em>Opportunity Engine</em> powered by <strong>Gemini AI</strong> to generate actionable farmer decision-support recommendations.</li>
       </ul>
@@ -146,7 +178,7 @@ Philosophy: "Efficiency + Innovation + Adaptability + Analytical Thinking"
     <td colspan="2" align="center">
       <h3>💳 HostelPayAI — Smart Student Expense Management</h3>
       <p>AI-assisted hostel expense tracking, roommate cost allocation, and automated budgeting built specifically for university students.</p>
-      <p><code>Next.js</code> · <code>JavaScript</code> · <code>AI Integration</code> · <code>Responsive UI</code></p>
+      <p><code>Next.js</code> · <code>JavaScript</code> · <code>Tailwind CSS</code> · <code>AI Integrations</code></p>
       <p>
         <a href="https://github.com/sujitkr268/HostelPayAI"><strong>📁 GitHub Repo</strong></a> • 
         <a href="https://hostelpayai.vercel.app"><strong>🌐 Live Demo</strong></a>
@@ -157,7 +189,7 @@ Philosophy: "Efficiency + Innovation + Adaptability + Analytical Thinking"
 
 ---
 
-### 📊 GitHub Activity & Metrics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -175,63 +207,64 @@ Philosophy: "Efficiency + Innovation + Adaptability + Analytical Thinking"
 
 ---
 
-### 🎓 Education & 📜 Certifications
+### 🏅 Badges & Achievements
 
 <div align="center">
 
-| Degree / Program | Institution | Score / Status | Timeline |
-| :--- | :--- | :---: | :---: |
-| **B.Tech in Computer Science & Engineering** | **Haldia Institute of Technology** | **CGPA: 9.06 / 10.0** (1st Year) | 2025 – Present |
-| **Higher Secondary (Class XII, Science)** | Zoom International School | **81.0%** | Completed |
-| **Secondary School (Class X, Science)** | St. Peter School – India | **95.0%** | Completed |
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90px" height="90px" title="Pull Shark" alt="Pull Shark" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90px" height="90px" title="YOLO" alt="YOLO" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90px" height="90px" title="Quickdraw" alt="Quickdraw" />
 
 </div>
 
-- 🥇 **Python Programming** — **NPTEL** | *Score: 85% (Elite)*
-- 🤖 **Generative AI for All** — **Microsoft & Physics Wallah**
-- 💼 **Communication Skills** — **TCS iON**
-- 🎯 **The 11 Essential Career Soft Skills** — **Udemy**
-
----
-
-### ⚡ Leadership & Extracurriculars
-
-- 💡 **Developer – ACM HIT Student Chapter** (*Tech Byte Series*, 2026–Present): Creating peer-education technical carousels covering core CS topics including **HashMap internals**, **overfitting/regularization**, **JSON serialization**, and the **confusion matrix / accuracy paradox**.
-- ♟️ **Content Writer – HIT Chess Club**: Contributing tactical insights and articles to the *64 Squares* publication series.
-- 🐾 **Beezuban**: Content and community contributor for animal welfare initiatives.
-- 🌐 **Open-Source Builder**: Hacktoberfest 2026 contributor and open-source enthusiast across developer tooling and AI.
-
----
-
-### 📬 Connect With Me
+<br/>
 
 <div align="center">
 
-  <a href="https://sujitkr.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/sujit-kumar-18776b3a3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sujitkr268">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/sujitkrishna2006">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  &nbsp;
-  <a href="mailto:sujitkrishna2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+| Program / Certification | Organization | Credential |
+| :--- | :--- | :---: |
+| **B.Tech in Computer Science & Engineering** | Haldia Institute of Technology | **CGPA: 9.06 / 10.0** (1st Year) |
+| **Python Programming (Elite)** | **NPTEL** | **Score: 85%** |
+| **Generative AI for All** | **Microsoft & Physics Wallah** | Certified |
+| **Communication Skills** | **TCS iON** | Certified |
+| **Developer – Tech Byte Series** | **ACM HIT Student Chapter** | Core Developer (2026–Present) |
 
-  <br/><br/>
+</div>
 
-  <p><strong><em>"Always eager to collaborate on innovative full-stack, Web3, and applied AI projects!"</em></strong></p>
+---
 
-  <!-- Footer Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
+### 🌐 Find Me Everywhere
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://sujitkr.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-kumar-18776b3a3)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujitkr268)
+&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sujitkrishna2006)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujitkrishna2006@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/sujitkr268?label=Followers&style=flat-square&color=58a6ff)](https://github.com/sujitkr268)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/sujitkr268?label=Total%20Stars&style=flat-square&color=F0C040)](https://github.com/sujitkr268?tab=repositories)
+
+<br/><br/>
+
+_"Efficiency + Innovation + Adaptability + Analytical Thinking = Who I Am"_
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" alt="Footer Banner" />
 
 </div>
