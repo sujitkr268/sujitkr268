@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Tech Animated Name Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/sujitkr268/sujitkr268/main/assets/sujit-tech-banner.svg" alt="SUJIT KUMAR Tech Animation Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=SUJIT%20KUMAR&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%7C%20Applied%20AI%20%7C%20B.Tech%20CSE%20%E2%9A%A1&descSize=18&descAlignY=62&descAlign=50" alt="SUJIT KUMAR Cyber Banner" />
 
 </div>
 
@@ -214,21 +214,19 @@
 
   <br/><br/>
 
-  <!-- Detailed GitHub Metrics Overview (Fixed Absolute Raw Link for Reliable Profile Rendering) -->
+  <!-- Detailed GitHub Metrics Overview -->
   <h3>📈 Performance & Language Metrics</h3>
   <a href="https://github.com/sujitkr268">
-    <img src="https://raw.githubusercontent.com/sujitkr268/sujitkr268/main/github-metrics.svg" alt="GitHub Metrics Overview for sujitkr268" width="100%" />
+    <img src="https://github.com/sujitkr268/sujitkr268/raw/main/github-metrics.svg" alt="GitHub Metrics Overview for sujitkr268" width="95%" />
   </a>
 
   <br/><br/>
 
   <!-- Animated Contribution Snake Game -->
   <h3>🐍 Contribution Snake Grid</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujitkr268/sujitkr268/main/assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujitkr268/sujitkr268/main/assets/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sujitkr268/sujitkr268/main/assets/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <a href="https://github.com/sujitkr268">
+    <img src="https://github.com/sujitkr268/sujitkr268/raw/main/assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  </a>
 
   <p><sub>⚡ Metrics &amp; Snake auto-generated daily via GitHub Actions (<a href="./.github/workflows/metrics.yml">metrics.yml</a> &amp; <a href="./.github/workflows/snake.yml">snake.yml</a>)</sub></p>
 
